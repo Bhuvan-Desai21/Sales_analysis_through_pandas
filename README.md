@@ -3,7 +3,7 @@
 ## Some things included are:
 - Data cleaning: First had to get rid of NaN values and also after combining the 12 months data in single there were many irregularities, so had to touch up.
 - Graph of Month wise sales data: Had to extract the month number from the order date for each product and then group them together and finally plot it against total sales
-![graph of month wise sales data]((https://i.postimg.cc/kXhQFm84/Month-wise-sales.jpg))
+![graph of month wise sales data](https://i.postimg.cc/kXhQFm84/Month-wise-sales.jpg)
 
 - City wise sales data: Extracted the City name and also the state name from the purchase address, and plotted a graph showing which city had the best and wrost sales for the company
 ![graph of city wise sales data](https://i.postimg.cc/Dz11T4NJ/city-wise-sales.jpg)
