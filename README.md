@@ -1,4 +1,4 @@
-# 186849 Rows of Orders Analysed and Presented for useful Insights!
+# 1,86,849 Rows of Orders Analysed and Presented for useful Insights!
 ## it contains some cool data analysis of sales data of a company operating in US
 ## Some things included are:
 - Data cleaning: First had to get rid of NaN values and also after combining the 12 months data in single there were many irregularities, so had to touch up.
