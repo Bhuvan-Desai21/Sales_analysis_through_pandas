@@ -12,7 +12,7 @@
 ![Hourly sales trend of full year](https://i.postimg.cc/VkrjKVBF/hourly-Sales-trend.jpg)
 
 - Most bought together products: user mostly orders things together so extracted which items were mostly bought together and graphed them up with no of times the products were bought together
-![Most bought together products graph](https://i.postimg.cc/XYR9mks6/bought-together.jpg)
+![Most bought together products graph](https://i.postimg.cc/wBTdszb9/Screenshot-2025-01-05-151247.png)
 
 - Product wise sales: finding out which product performed the best overall
 ![graph of product wise sales data](https://i.postimg.cc/qM7c3RNS/Product-wise-sales.jpg)
